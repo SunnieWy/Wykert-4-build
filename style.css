@@ -137,7 +137,6 @@ footer a {
   margin: 1rem;
   padding: 1rem;
   background-color: #F7F5FF;
-  min-width: 784px;
   display: grid;
   grid-template-columns: 150px 1fr;
   gap: 1rem;
@@ -147,8 +146,6 @@ header, nav, main, footer {
   grid-column: 1/3;
 }
 nav ul {
-  display: flex;
-  justify-content: space-evenly;
   list-style: none;
 }
 nav a {
@@ -268,7 +265,6 @@ footer a {
   margin: 1rem;
   padding: 1rem;
   background-color: #F7F5FF;
-  min-width: 784px;
   display: grid;
   grid-template-columns: 150px 1fr;
   gap: 1rem;
